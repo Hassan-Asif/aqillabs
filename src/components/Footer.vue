@@ -9,7 +9,7 @@
         <!-- Brand -->
         <div class="footer-brand">
           <a href="#" class="brand">
-            <span class="brand-mark">A</span>
+            <!-- <span class="brand-mark">A</span> -->
             <span class="brand-name">{{ brand }}</span>
           </a>
 
